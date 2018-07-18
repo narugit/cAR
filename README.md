@@ -2,7 +2,7 @@
 
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](https://github.com/narugit/cAR/blob/master/LICENSE)
 
-This is a AR application to lead to your parked car.  
+This is an AR application to lead to your parked car.  
 
 ## Description
 
@@ -10,7 +10,7 @@ Graphically superimpose the direction and distance from the current location to 
 Continue in the direction of the arrow, you can reach the parked car.
 
 ***DEMO:***  
-<img src="https://github.com/narugit/cAR/blob/media/cARDemo.gif" style="width: 25%;">
+![cARDemo.gif](https://github.com/narugit/cAR/blob/media/cARDemo.gif)
 
 ## Features
 
